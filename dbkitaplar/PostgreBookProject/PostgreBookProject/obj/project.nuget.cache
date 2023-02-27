@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pAV4nX7MMe6kt1Sq63RtjlBRS7DsjDLD4yG7QZv8/l2FLdIAJfOycDFlhGN9aqhjevoS0XZeYWgDNJk2fZ3Mfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\PostgreBookProject\\PostgreBookProject\\PostgreBookProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
